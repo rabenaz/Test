@@ -1,3 +1,1 @@
-Test
-====
-##Just a test form the new MAC OSX App.
+#Just a test of the new MAC OSX App.
